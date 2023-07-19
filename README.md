@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm aptheparker<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/aptheparker"><img src="https://readme-typing-svg.herokuapp.com?lines=Student-Developer;React.js%20|%20Node.js%20|%20Javascript%20|%20Python;Staying%20updated%20and%20staying%20an%20active%20learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/aptheparker"><img src="https://readme-typing-svg.herokuapp.com?lines=Student-Developer;React.js%20|%20Node.js%20|%20Javascript%20|%20Python;Staying%10updated%10and%10staying%10an%10active%10learner&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <!-- I like to Code. -->
