@@ -24,7 +24,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=dracula&layout=compact" alt="Top Languages">
 </p>
 <br>
 <hr/>
