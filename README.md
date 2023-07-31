@@ -27,8 +27,5 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=dracula&layout=compact" alt="Top Languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aptheparker&theme=dracula&layout=compact" alt="Wakatime Stats">
-</p>
 <br>
 <hr/>
