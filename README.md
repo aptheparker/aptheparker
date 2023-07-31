@@ -20,7 +20,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=dracula" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
