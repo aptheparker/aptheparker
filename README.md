@@ -16,15 +16,19 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 
 <!-- Replace the link with the actual image link from the GitHub Readme Stats API -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=dracula" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=github_dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=dracula" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=github_dark&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=dracula&layout=compact" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aptheparker)](https://github.com/anuraghazra/github-readme-stats" alt="Top Languages">
 </p>
 <br>
 <hr/>
