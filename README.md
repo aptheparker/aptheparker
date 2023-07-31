@@ -14,7 +14,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 
 ## 🔥 Github Stats
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=transparent)</p>
+<p align="center">(https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=transparent)</p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=algolia" alt="aptheparker"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=algolia&layout=compact" alt="aptheparker"></p>
 <br>
