@@ -16,15 +16,15 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 
 <!-- Replace the link with the actual image link from the GitHub Readme Stats API -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=gradient" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aptheparker&show_icons=true&theme=github_dark" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=gradient" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aptheparker&theme=github_dark" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=gradient&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aptheparker&theme=github_dark&layout=compact" alt="Top Languages">
 </p>
 <br>
 <hr/>
