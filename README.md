@@ -28,8 +28,7 @@ I'm a Student Developer from South Korea, I am passionate about technologies. <b
 </p>
 
 <p align="center">
-  <!-- Corrected the Wakatime image link -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aptheparker&theme=dracula" alt="Wakatime Stats">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aptheparker&theme=dracula&layout=compact" alt="Wakatime Stats">
 </p>
 <br>
 <hr/>
