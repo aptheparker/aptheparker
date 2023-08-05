@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm aptheparker<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/aptheparker">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E35DF7&lines=Student-Developer;React.js%20|%20Node.js%20|%20Javascript%20|%20Python;Staying-updated-and-staying-an-active-learner&amp;center=true&amp;width=600&amp;height=50">
+    <img src="https://readme-typing-svg.herokuapp.com&lines=Student-Developer;React.js%20|%20Node.js%20|%20Javascript%20|%20Python;Staying-updated-and-staying-an-active-learner&amp;center=true&amp;width=600&amp;height=50">
   </a>
 </p>
 
