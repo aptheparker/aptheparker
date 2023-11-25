@@ -7,11 +7,6 @@
 
 <hr/>
 
-<h4 align="center">
-I'm a Student Developer from South Korea, I am passionate about technologies. <br />
-</h4>
-<hr/>
-
 ## 🔥 Github Stats
 
 <!-- Replace the link with the actual image link from the GitHub Readme Stats API -->
