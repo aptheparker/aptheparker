@@ -5,8 +5,6 @@
   </a>
 </p>
 
-<hr/>
-
 ## 🔥 Github Stats
 
 <!-- Replace the link with the actual image link from the GitHub Readme Stats API -->
